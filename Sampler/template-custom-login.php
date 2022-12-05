@@ -1,7 +1,7 @@
 <?php
-/* 
+ 
 * Template Name: Custom Login Form
-*/
+
 ?>
  
 <?php
